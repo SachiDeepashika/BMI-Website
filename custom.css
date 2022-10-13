@@ -1,0 +1,22 @@
+.jumbotron{
+    background-image: url("image/bg.png");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color:black;
+    border-radius: 0px !important;
+    width: 100%;
+    
+}
+
+.intro{
+    padding-top: 190px;
+    margin-top: 80px;
+}
+
+.about{
+    background-image: url("image/bp2.png");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
